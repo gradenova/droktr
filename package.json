@@ -16,7 +16,7 @@
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
     "animate.css": "^3.7.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.6",
     "bulma": "^0.7.5",
     "clean-webpack-plugin": "^3.0.0",
